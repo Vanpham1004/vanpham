@@ -762,7 +762,7 @@ width: 640px;
   }
 }
 
-@media (min-width:992px)
+@media (max-width:769px)
 {
 .swiper-container .swiper-wrapper .swiper-slide .scale {
 	display: none;
